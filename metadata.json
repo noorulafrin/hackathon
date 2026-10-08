@@ -1,0 +1,6 @@
+{
+  "name": "CyberSentinel – Intelligent Cyber Threat & Network Anomaly Detection",
+  "description": "Real-time SOC cybersecurity sentinel that converts network telemetry into explainable, actionable threat decisions with anomaly detection, risk scoring, and policy guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
